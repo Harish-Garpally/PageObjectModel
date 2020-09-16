@@ -13,7 +13,7 @@ import com.crm.qa.pages.LoginPage;
 import com.crm.qa.util.TestUtil;
 
 
-// assert i used to validate the actual and expected result
+// assert i used to validate the actual and expected result we can use this to validate
 public class ContactsPageTest extends TestBase {
 
 	LoginPage loginPage;
